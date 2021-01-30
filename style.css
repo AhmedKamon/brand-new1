@@ -7,7 +7,7 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
-    background: url(images/bg.png);
+    background: url(bg.png);
     
     background-repeat: no-repeat;
     background-position: center center;
@@ -131,7 +131,7 @@ nav ul li a:hover, a.active{
 #next-page{
    width: 100%;
    height: 100vh;
-   background: url(images/newCopy.png) 50% 50% no-repeat;
+   background: url(newCopy.png) 50% 50% no-repeat;
    background-size: cover;
    display: table; 
    display: none;
